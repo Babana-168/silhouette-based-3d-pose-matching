@@ -127,9 +127,9 @@ Rz = [[cos(rz), -sin(rz), 0],
 silhouette-based-3d-pose-matching/
 ├── match_3d_to_image.py        # メインスクリプト（GPU高速化版）
 ├── viewer_app.py               # インタラクティブビューアー（Three.js）
-├── generate_features_json.py   # 特徴量データベース生成
-├── models_rabit_dae/           # 3Dモデルディレクトリ
-│   └── rabit.dae
+├── models_rabit_obj/           # 3Dモデルディレクトリ
+│   ├── rabit.obj
+│   └── rabit.mtl
 ├── Image0.png                  # サンプルターゲット画像
 ├── requirements.txt            # Python依存関係
 ├── README.md                   # このファイル

@@ -499,7 +499,7 @@ def main():
     BASE_PATH = Path(__file__).resolve().parent
 
     TARGET_IMAGE = BASE_PATH / "Image0.png"
-    MODEL_PATH = BASE_PATH / "models_rabit_dae" / "rabit.dae"
+    MODEL_PATH = BASE_PATH / "models_rabit_obj" / "rabit.obj"
     OUTPUT_PATH = BASE_PATH / "matching_result_gpu.png"
     
     print("=" * 70)
