@@ -200,7 +200,11 @@ silhouette-based-3d-pose-matching/
 
 ## ライセンス
 
-MIT License
+All rights reserved.
+
+This repository is provided for viewing purposes only.
+Redistribution, modification, and commercial use are not permitted
+without explicit permission from the author.
 
 ## 貢献
 
