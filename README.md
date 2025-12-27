@@ -1,4 +1,4 @@
-#一応作成途中です。コード共有の時だけpublicにしてます 
+# ※一応作成途中です。コード共有の時だけpublicにしてます 
 
 # Silhouette-Based 3D Pose Matching
 
