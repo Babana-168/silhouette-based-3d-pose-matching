@@ -1,3 +1,5 @@
+#一応作成途中です。コード共有の時だけpublicにしてます 
+
 # Silhouette-Based 3D Pose Matching
 
 シルエット画像から3Dモデルの最適な姿勢（回転・スケール・位置）を推定するツールです。GPU加速によりリアルタイムでIoU（Intersection over Union）を最大化する最適解を探索します。
