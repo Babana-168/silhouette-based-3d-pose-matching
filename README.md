@@ -1,4 +1,5 @@
 # ※一応作成途中です。コード共有の時だけpublicにしてます 
+ps.ファイルが大きいものといじってる最中の物はここにないです。欲しい方は本人にDMしてください
 
 # Silhouette-Based 3D Pose Matching
 
