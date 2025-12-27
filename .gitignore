@@ -148,8 +148,8 @@ rotation_results_*/
 top5_results/
 nul
 
-# Test files
-test*.py
+# Development test files (exclude from git)
+test.py
 me.py
 get.py
 

@@ -4,17 +4,16 @@
 # Core dependencies
 numpy>=1.21.0
 pillow>=9.0.0
-scipy>=1.7.0
-matplotlib>=3.5.0
+opencv-python>=4.5.0
+tqdm>=4.60.0
 
 # 3D processing
 trimesh>=3.15.0
-pycollada>=0.7.2
+pyrender>=0.1.45
 networkx>=2.6.0
 
-# Deep learning (GPU acceleration)
-torch>=2.0.0
-torchvision>=0.15.0
+# Database
+# SQLite3 is included in Python standard library
 
 # Optional: For interactive viewer
 # flask>=2.0.0
