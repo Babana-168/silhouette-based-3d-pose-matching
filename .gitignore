@@ -45,10 +45,11 @@ pose_match_fullsearch_result/
 depth_comparison*/
 depth_distortion*/
 
-# Generated images (keep only Image0.png and depth)
+# Generated images (keep only specific ones)
 *.png
 !Image0.png
 !Image0_depth.png
+!docs/*.png
 *.jpg
 *.jpeg
 # But keep texture in model dir
@@ -72,3 +73,6 @@ dae.html
 
 # Old DAE model (use OBJ instead)
 models_rabit_dae/
+
+# Allow STL for GitHub 3D viewer
+!models_rabit_obj/*.stl
