@@ -1,0 +1,4 @@
+models_rabit_obj/rabit_low.stl filter=lfs diff=lfs merge=lfs -text
+models_rabit_obj/rabit01.jpg filter=lfs diff=lfs merge=lfs -text
+models_rabit_obj/rabit.obj filter=lfs diff=lfs merge=lfs -text
+models_rabit_obj/rabit_low.obj filter=lfs diff=lfs merge=lfs -text

@@ -7,7 +7,7 @@ __pycache__/
 *.so
 *.dll
 *.exe
-*.obj
+cpp_pipeline/*.obj
 *.o
 *.pdb
 cpp_pipeline/build/
