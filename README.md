@@ -3,6 +3,7 @@
 深度画像から3Dモデルの姿勢（6DoF）を推定するCPU専用パイプライン。GPU・事前学習・学習データセット一切不要で、**IoU 98.03%** を達成。
 
 誤差ピクセルの空間分布を解析する**エラー集中度（Error Concentration Analysis）** により、姿勢推定誤差と物体欠損を自動的に分離する品質指標を提案。
+
 ※Githubに上げるようのAIをテストして作りました変な箇所があれば教えてください
 ![Pipeline Result](docs/pipeline_result.png)
 
