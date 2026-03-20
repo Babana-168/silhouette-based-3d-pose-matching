@@ -24,7 +24,7 @@ namespace fs = std::filesystem;
 // Configuration
 // =============================================================================
 
-const std::string BASE_DIR = "C:/nagano/3Dnagano";
+const std::string BASE_DIR = "C:/"; //自分で変えてね
 std::string INPUT_IMAGE = BASE_DIR + "/Image0.png";
 const std::string DEPTH_IMAGE = BASE_DIR + "/Image0_depth.png";
 const std::string MODEL_PATH = BASE_DIR + "/models_rabit_obj/rabit_low.obj";
